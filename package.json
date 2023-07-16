@@ -8,8 +8,8 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/www.github.com/lifecoachray.git"
+    "type": "github",
+    "url": "https://github.com/LifeCoachRay/prepaidlegal"
   },
   "keywords": [
     "API",
@@ -21,9 +21,9 @@
   "author": "Life Coach Ray",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/www.github.com/lifecoachray/issues"
+    "url": "https://github.com/lifecoachray/prepaidlegal/issues"
   },
-  "homepage": "https://github.com/www.github.com/lifecoachray#readme",
+  "homepage": "https://github.com/lifecoachray/prepaidlegal/readme",
   "dependencies": {
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12",
