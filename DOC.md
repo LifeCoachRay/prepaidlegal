@@ -63,7 +63,7 @@ npm start
 
 ## Configuration
 
-In the `app.js` file, you can modify the following variables:
+In the `server.js` file, you can modify the following variables:
 
 - `url`: The URL of the webpage to scrape.
 - `port`: The port on which the server will run.
